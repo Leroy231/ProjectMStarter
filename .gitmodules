@@ -1,0 +1,7 @@
+[submodule "Plugins/ProjectM"]
+	path = Plugins/ProjectM
+	url = https://github.com/LeroyTechnologies/ProjectM.git
+[submodule "Plugins/AnimToTexture"]
+	path = Plugins/AnimToTexture
+	url = https://github.com/LeroyTechnologies/AnimToTexture.git
+	branch = projectm
