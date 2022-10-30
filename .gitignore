@@ -13,6 +13,7 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content
+enc_temp_folder
 
 # Gets added by https://www.unrealengine.com/marketplace/en-US/product/m1a1-abrams-tank
 West_Tank_M1A1Abrams.png
